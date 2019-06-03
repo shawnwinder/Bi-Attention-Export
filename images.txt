@@ -1,0 +1,5 @@
+/mnt/disk1/zhibin/experiment_data/fine_grained_classification/cars/cars_test/00001.jpg
+/mnt/disk1/zhibin/experiment_data/fine_grained_classification/cars/cars_test/00002.jpg
+/mnt/disk1/zhibin/experiment_data/fine_grained_classification/cars/cars_test/00003.jpg
+/mnt/disk1/zhibin/experiment_data/fine_grained_classification/cars/cars_test/00004.jpg
+/mnt/disk1/zhibin/experiment_data/fine_grained_classification/cars/cars_test/00005.jpg

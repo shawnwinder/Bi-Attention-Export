@@ -1,0 +1,23 @@
+# device
+gpu_id: 0
+# gpu_id: 
+
+# raw inputs
+image_files: "/home/zhibin/wangxiao/workshop/visual-tasks/Bi-Attention-Export-Cars/images.txt"
+
+# dataset info [1] 
+label_words: "/mnt/disk1/zhibin/experiment_data/fine_grained_classification/cars/cars196_words.txt"
+
+mean: [128., 128., 128.]
+std: [128., 128., 128.]
+scale: 256
+crop: 224
+jitter: False
+
+# network
+# bi-attention net (cars196) [2]
+init_net: "/home/zhibin/wangxiao/workshop/visual-tasks/Bi-Attention-Export-Cars/bi-attention/bat_cars196_deploy_init_net.pb"
+predict_net: "/home/zhibin/wangxiao/workshop/visual-tasks/Bi-Attention-Export-Cars/bi-attention/bat_cars196_deploy_predict_net.pb"
+
+
+
